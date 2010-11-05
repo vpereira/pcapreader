@@ -1,0 +1,7 @@
+tests with pcapfiles, mongodb and capped collections
+
+to compile it (you need pcap)
+make
+
+to run it
+./pcapread mypcap.file
